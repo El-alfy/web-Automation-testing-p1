@@ -1,0 +1,8 @@
+1-open project on EcliPse
+2-open (src/test/java)
+3-open package that named (all_test)
+4-open class (ALLPROJECT.java)
+5-Rightclick
+6-Run As
+7-TestNG test
+

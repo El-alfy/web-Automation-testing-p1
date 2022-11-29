@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T06:44:34 EET" name="Default suite" finished-at="2022-11-18T06:47:46 EET" duration-ms="191700">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T06:44:34 EET" name="Default test" finished-at="2022-11-18T06:47:46 EET" duration-ms="191700">
+      <class name="all_test.ALLPROJECT">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:all_test.ALLPROJECT@12f8b1d8]" started-at="2022-11-18T06:44:34 EET" name="openUrl" finished-at="2022-11-18T06:44:37 EET" duration-ms="3166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="log()[pri:1, instance:all_test.ALLPROJECT@12f8b1d8]" started-at="2022-11-18T06:44:37 EET" name="log" finished-at="2022-11-18T06:44:53 EET" duration-ms="15793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method signature="Register()[pri:2, instance:all_test.ALLPROJECT@12f8b1d8]" started-at="2022-11-18T06:44:53 EET" name="Register" finished-at="2022-11-18T06:45:41 EET" duration-ms="47929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method signature="LoginWithCapture()[pri:3, instance:all_test.ALLPROJECT@12f8b1d8]" started-at="2022-11-18T06:45:41 EET" name="LoginWithCapture" finished-at="2022-11-18T06:46:26 EET" duration-ms="44512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithCapture -->
+        <test-method signature="View()[pri:4, instance:all_test.ALLPROJECT@12f8b1d8]" started-at="2022-11-18T06:46:26 EET" name="View" finished-at="2022-11-18T06:47:18 EET" duration-ms="52083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- View -->
+        <test-method signature="View_DATA()[pri:5, instance:all_test.ALLPROJECT@12f8b1d8]" started-at="2022-11-18T06:47:18 EET" name="View_DATA" finished-at="2022-11-18T06:47:45 EET" duration-ms="27617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- View_DATA -->
+        <test-method is-config="true" signature="CloseDriver()[pri:0, instance:all_test.ALLPROJECT@12f8b1d8]" started-at="2022-11-18T06:47:45 EET" name="CloseDriver" finished-at="2022-11-18T06:47:46 EET" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- all_test.ALLPROJECT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
